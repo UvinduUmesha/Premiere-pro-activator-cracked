@@ -1,0 +1,8 @@
+{
+  "name": "Lucid Dreamer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "539f31fa"
+}
